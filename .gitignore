@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+model/
+models/
+*.joblib
+*.pkl
+*.pt
+
+# Data
+data/
+*/data/
+*.csv
+*.json
