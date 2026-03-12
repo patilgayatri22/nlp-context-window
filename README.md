@@ -49,3 +49,7 @@ Movie review classification
 NLP portfolio project
 ML interview demonstration
 Real-world text classification systems
+
+## License
+
+This project is open-source under the MIT License.
